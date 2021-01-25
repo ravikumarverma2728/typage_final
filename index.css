@@ -92,12 +92,7 @@ body::before{
 }
 
 
-@media (max-width: 768px){
-.fixed-bottom { 
-position: relative; 
-   
-       }
-}
+
 
 @media (max-width: 426px){
 #titletext{
